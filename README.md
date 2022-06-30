@@ -11,7 +11,7 @@ flow only if the circuit is closed (that goes for any other electric circuit asw
 
 ![any](https://user-images.githubusercontent.com/87940534/176731644-793fcf2f-22a0-4f2b-aa03-08f9905e6de0.jpg)
 
-I have circle the tilt switch in green, if that breadboard were tilted (the tilt switch would tilt aswell). This is will cause the 
+I have circled the tilt switch in green, if that breadboard were tilted (the tilt switch would tilt aswell). This is will cause the 
 current to stop flowing and hence stop the fan from spinning. This could be used as a safety mechanism for your project, for example
 imagine if you had a car which when upside down would still spin its wheels wasting energy, whereas this issue could be solved using 
 the tilt switch. 
